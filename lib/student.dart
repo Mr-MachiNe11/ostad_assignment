@@ -3,7 +3,7 @@ import 'package:ostad_assignment/person.dart';
 class Student extends Person {
   final int studentId;
 
-  final String grade;
+  //final String grade;
   List<double> courseScores = [];
 
   Student(
