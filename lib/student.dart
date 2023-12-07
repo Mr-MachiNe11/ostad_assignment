@@ -23,7 +23,7 @@ class Student extends Person {
 
     double totalScore = 0.0;
 
-    for (var score in courseScores) {
+    for (double score in courseScores) {
       totalScore += score;
     }
     double avgScore = totalScore / courseScores.length;

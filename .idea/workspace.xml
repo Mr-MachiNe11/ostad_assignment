@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0874799d-df96-4fee-b2a0-86cfb8bbc211" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/student.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/student.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/student_management_system.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/student_management_system.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/teacher.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/teacher.dart" afterDir="false" />
-    </list>
+    <list default="true" id="0874799d-df96-4fee-b2a0-86cfb8bbc211" name="Changes" comment="main() is in bin folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +61,35 @@
       <option name="presentableId" value="Default" />
       <updated>1701932020140</updated>
     </task>
+    <task id="LOCAL-00001" summary="main() is in bin folder">
+      <option name="closed" value="true" />
+      <created>1701952320847</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701952320847</updated>
+    </task>
+    <task id="LOCAL-00002" summary="main() is in bin folder">
+      <option name="closed" value="true" />
+      <created>1701952634952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701952634952</updated>
+    </task>
+    <task id="LOCAL-00003" summary="main() is in bin folder">
+      <option name="closed" value="true" />
+      <created>1701952703749</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701952703749</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="main() is in bin folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="main() is in bin folder" />
   </component>
 </project>
