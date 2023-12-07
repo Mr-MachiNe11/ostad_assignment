@@ -3,11 +3,11 @@ import 'package:ostad_assignment/teacher.dart';
 
 class StudentManagementSystem {
   static void main() {
-    final student = Student('John Doe', 20, '123 Main Street', 123, [1, 2, 3]);
-    //student.courseScores = [90, 85, 82];
+    final student = Student('John Doe', 20, '123 Main Street', 123);
+    student.courseScores = [90, 85, 82];
     final teacher =
-        Teacher('Mrs. Smith', 35, '456 Oak St.', 456, ['a', 's', 'c']);
-    //teacher.coursesTaught = ['Math', 'English', 'Bangla'];
+        Teacher('Mrs. Smith', 35, '456 Oak St.', 456);
+    teacher.coursesTaught = ['Math', 'English', 'Bangla'];
 
     print('\nStudent Information:');
     student.displayRole();
