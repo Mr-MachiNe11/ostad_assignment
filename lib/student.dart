@@ -7,8 +7,7 @@ class Student extends Person {
   List<double> courseScores = [];
 
   Student(
-      super.name, super.age, super.address, this.studentId, this.grade,
-      //this.grade
+      super.name, super.age, super.address, this.studentId,       //this.grade
       );
 
   @override
