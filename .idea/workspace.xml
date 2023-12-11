@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0874799d-df96-4fee-b2a0-86cfb8bbc211" name="Changes" comment="main() is in bin folder" />
+    <list default="true" id="0874799d-df96-4fee-b2a0-86cfb8bbc211" name="Changes" comment="main() is in bin floder.">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/person.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/role.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/student.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/student_management_system.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/teacher.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ostad_assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ostad_assignment.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,14 +29,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ZChYZXY3KZ7U5y8cQoEe01SEEr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,8 +52,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "live__test"
   }
 }]]></component>
   <component name="RunManager" selected="Dart Command Line App.main.dart">
@@ -93,11 +110,45 @@
       <option name="project" value="LOCAL" />
       <updated>1701952868171</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="main() is in bin folder">
+      <option name="closed" value="true" />
+      <created>1701953991968</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701953991968</updated>
+    </task>
+    <task id="LOCAL-00006" summary="f">
+      <option name="closed" value="true" />
+      <created>1701954027993</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701954027993</updated>
+    </task>
+    <task id="LOCAL-00007" summary="f">
+      <option name="closed" value="true" />
+      <created>1701954057590</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701954057590</updated>
+    </task>
+    <task id="LOCAL-00008" summary="main() is in bin floder.">
+      <option name="closed" value="true" />
+      <created>1701954158076</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701954158076</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="main() is in bin folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="main() is in bin folder" />
+    <MESSAGE value="f" />
+    <MESSAGE value="main() is in bin floder." />
+    <option name="LAST_COMMIT_MESSAGE" value="main() is in bin floder." />
   </component>
 </project>
